@@ -1,0 +1,6 @@
+framework module CCCalendar {
+  umbrella header "CCCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}

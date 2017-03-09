@@ -1,0 +1,22 @@
+{
+  "name": "CCCalendar",
+  "version": "0.1.0",
+  "summary": "A short description of CCCalendar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/VArbiter/CCCalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VArbiter": "elwinfrederick@163.com"
+  },
+  "source": {
+    "git": "https://github.com/VArbiter/CCCalendar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CCCalendar/Classes/**/*"
+}

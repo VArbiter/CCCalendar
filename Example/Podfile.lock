@@ -1,0 +1,16 @@
+PODS:
+  - CCCalendar (0.1.0)
+
+DEPENDENCIES:
+  - CCCalendar (from `../`)
+
+EXTERNAL SOURCES:
+  CCCalendar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CCCalendar: e68faa1934cd339c64238fbc37028f655b6e9676
+
+PODFILE CHECKSUM: 946f803ffa774e6a2271d30d186dd6b717b45040
+
+COCOAPODS: 1.2.0
