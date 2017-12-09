@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CCCalendar'
-  s.version          = '0.1.0'
+  s.version          = '0.1.0.1'
 s.summary          = 'CCCalendar is kind a BASIC TOOL of calculate Dates . '
 
   s.description      = <<-DESC
@@ -16,4 +16,7 @@ s.summary          = 'CCCalendar is kind a BASIC TOOL of calculate Dates . '
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'CCCalendar/Classes/**/*'
+  s.deprecated = true
+  s.deprecated_in_favor_of = 'CCExtensionKit'
+
 end
